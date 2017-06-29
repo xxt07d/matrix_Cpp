@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1463317490 source:d:\ideiglenes\matrix\main.cpp
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+	"tervektor.h"
+	"teszt.h"
+
+1463423014 d:\ideiglenes\matrix\matrix.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"memtrace.h"
+	"tervektor.h"
+
+1463178602 d:\ideiglenes\matrix\tervektor.h
+	<iostream>
+
+1463242953 source:d:\ideiglenes\matrix\tervektor.cpp
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+	"tervektor.h"
+
+1462835836 source:d:\ideiglenes\matrix\memtrace.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1463259500 d:\ideiglenes\matrix\memtrace.h
+	<new>
+	<stdlib.h>
+	<iostream>
+
+1463178482 d:\ideiglenes\matrix\feltolt.h
+	"matrix.hpp"
+
+1463240016 d:\ideiglenes\matrix\teszt.h
+
+1463178372 source:d:\ideiglenes\matrix\feltolt.cpp
+	<ctime>
+	<cstdlib>
+	"feltolt.h"
+	"matrix.hpp"
+	"tervektor.h"
+
+1463317689 source:d:\ideiglenes\matrix\teszt.cpp
+	<iostream>
+	<ctime>
+	"memtrace.h"
+	"teszt.h"
+	"matrix.hpp"
+	"tervektor.h"
+
+1463179158 d:\ideiglenes\matrix\feltolt.hpp
+	<ctime>
+	<cstdlib>
+	"matrix.hpp"
+	"tervektor.h"
+
+1463259500 source:d:\ideiglenes\matrix\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
